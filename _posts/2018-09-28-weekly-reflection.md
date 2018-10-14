@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Dereck Rampersad,"
+date: 2018-09-28
+---
 1. Describe how you are feeling about the class
 I feel good in class and i have been getting the lessons more latey as i have been getting more answers right taking notes and studeying them
 2. Describe what we are learning and what you are learning
