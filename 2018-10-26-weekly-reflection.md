@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Dereck Rampersad,"
+date: 2018-10-26
+---
+We have learned alot about computer science over the past 6 weeks.The first week we had to create a github account and make a website.We were told to do exaclty what the instructions told us and at first i had a hard time but we learned one of the most important lessons and that was to be very speific with the code you do as any wrong typeing error was an error that would led the whole website to fail and not work but with rechecking it i was fainlly able to complete it knowing that you can't summerize code you have to apply it exactly the way it is.Then after that week we learned what a agrument was in code and it describe something like the size.There were also strings and they gave it the adjectives of the image we had as for them to be a string they needed a parenties t be a string as they a need to be in order to.If you wanted a shape to be red you need them to be in order like you cannot put "der" you would need to put red for a red color.We also learned a little in the 3rd week about circle of evalution as we used them to do math so when making real code we would know where to put parenties and the funtion that would be like the operation. 
