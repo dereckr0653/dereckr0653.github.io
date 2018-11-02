@@ -3,7 +3,5 @@ layout: post
 title: "Dereck Rampersad,"
 date: 2018-11-02
 ---
-# Hi
+# Dereck's blog post 2018-11-02
 ###### Hi
-As your mom said:
-> you are a bad child 
