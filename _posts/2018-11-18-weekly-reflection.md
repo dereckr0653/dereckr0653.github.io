@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Dereck Rampersad,"
+date: 2018-11-18
+---
+This week we learned how important it is to be able to describe a function.We did a list of things to interpret a function like how we had to make connections to other stuff we learned over the year.First we need a fast function as this will help us to telll us what we  need to put in the function.Second we create a contract for the function as thus will tell us the terms we need tp put into the computer to know what to make but this is general meaning you do not put these words it is just a specific term we have to put in for the computer to understand.Next we put in two functions as this can tell us if it works to make sure we can make our oen functions and still use the contract given to us.Finally we will define the function as we will write it out in wescheme or on paper in the way will wwrite it to get the code as this helps you understan the function.This helps alot because if the computer says you do not have a correct string you need to know what that is so you will know what the computer can understan in the code as the computer reads it.This also helps you will other code as examples will make sure yoy know how to put other versions of that code down.Knowing this helps you you understand the cde written and what it means and the info given to the compter when reading this.
