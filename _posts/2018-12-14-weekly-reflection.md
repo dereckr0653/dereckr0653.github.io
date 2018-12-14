@@ -1,4 +1,11 @@
-(define Width 300)
+---
+layout: post
+title: "Dereck Rampersad,"
+date: 2018-12-14
+---
+This week we have made our flags learning how even though it seems like a simle task 
+![FlagImage](/images/flagv2.png)
+``(define Width 300)
 (define Height 200)
 (define tri(rotate 30(triangle 200 "solid""blue")))
 tri
@@ -16,4 +23,4 @@ stepthree
 (define Boss(put-image Star 50 90 tri))
 Boss
 (define last-step(put-image Boss 85 100 stepthree))
-last-step
+last-step```
