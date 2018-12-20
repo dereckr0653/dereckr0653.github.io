@@ -52,5 +52,5 @@ Insert 10-15 line code section here _then delete this instruction_
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+Insert entire program here _then delete this instruction
 ```
