@@ -9,7 +9,7 @@ by Dereck Rampersad
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
+-   I designed a flag for Prico Rico
 -   What grade do you expect? _then delete this instruction_
 
 <!--- Delete this comment and add your writing -->
