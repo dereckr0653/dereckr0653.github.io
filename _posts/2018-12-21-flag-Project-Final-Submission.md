@@ -19,7 +19,7 @@ by Dereck Rampersad
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![Flag](/images/final-flag.png)
+![Flag](/images/flag-final.png)
 * * *
 
 ## Describe your process.
