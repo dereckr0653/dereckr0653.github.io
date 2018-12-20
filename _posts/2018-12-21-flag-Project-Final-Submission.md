@@ -4,8 +4,8 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of prico rico
-by _insert your name_
+## Flag of Prico Rico
+by Dereck Rampersad
 
 ## Describe your program
 
