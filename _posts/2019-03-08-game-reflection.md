@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Flag Project - Final Submission"
+date: 2019-03-08
+---
 Video Game Submission Sheet
 Your name:
 Dereck Rampersad
