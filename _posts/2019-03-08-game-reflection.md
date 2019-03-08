@@ -4,15 +4,17 @@ title: "Game-Reflection "
 date: 2019-03-08
 ---
 Video Game Submission Sheet
-Your name:
-Dereck Rampersad
-Shared link to your game:
-https://www.wescheme.org/view?publicId=937oSfxCQA
-Game Title: 
-Gold digger
+
+Your name:Dereck Rampersad
+
+Shared link to your game:https://www.wescheme.org/view?publicId=937oSfxCQA
+
+Game Title: Gold digger
 Describe your game, characters and setting: 
-Their is the player as shovel knight and he is trying to get his gold but in the deep dark caves there's someone else trying to get his gold to
+Their is the player as shovel knight and he is trying to get his gold but in the deep dark caves there's someone else trying to get his gold so he can have it.
+
 Choose one of either the onscreen?, update-player, distance, or collide? functions. Copy and paste the entire function including contract, purpose statement, examples and definition. 
+
 ; safe-left? : Number -> Boolean
 ; Is the character visible on the left side of the screen?
 
