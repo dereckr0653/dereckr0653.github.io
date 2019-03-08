@@ -21,7 +21,9 @@ Choose one of either the onscreen?, update-player, distance, or collide? functio
 ; Write an EXAMPLE that makes this true, and one that makes this false:
 
 (EXAMPLE (safe-left? 100) (> 100 -50))
+
 (EXAMPLE (safe-left? -200) (> -200 -50))
+
 (define (safe-left? x) (> x -50))
 
 
